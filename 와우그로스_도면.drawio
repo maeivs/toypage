@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.6">
   <diagram name="페이지-1" id="4BUIDIx8d9sEfzmnJ7_j">
-    <mxGraphModel dx="2066" dy="1103" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3756" dy="2005" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -341,7 +341,7 @@
           <mxGeometry x="1336" y="556.5" width="10" height="165" as="geometry" />
         </mxCell>
         <mxCell id="CocnZ4c7-BukDBuFTGTN-11" value="46.50&lt;span style=&quot;font-family: Arial, sans-serif; text-align: start;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;m²&lt;/font&gt;&lt;/span&gt;&amp;nbsp;(14.07평형)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1169" y="556.5" width="120" height="35" as="geometry" />
+          <mxGeometry x="1152" y="533" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="CocnZ4c7-BukDBuFTGTN-12" value="경기도 화성시 와우안길 17&lt;div&gt;수원대학교 고운첨단과학기술연구원 906호&lt;/div&gt;&lt;div&gt;와우그로스&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="1002.5" y="145" width="470" height="60" as="geometry" />
@@ -431,10 +431,16 @@
           <mxGeometry width="155" height="240" as="geometry" />
         </mxCell>
         <mxCell id="CocnZ4c7-BukDBuFTGTN-41" value="회의 테이블" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="CocnZ4c7-BukDBuFTGTN-39" vertex="1">
-          <mxGeometry x="40.75" y="105" width="73.5" height="30" as="geometry" />
+          <mxGeometry x="40.75" y="195" width="73.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CocnZ4c7-BukDBuFTGTN-42" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.flat_tv;" parent="CocnZ4c7-BukDBuFTGTN-39" vertex="1">
           <mxGeometry x="11.5" y="10" width="132" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="1ovSfIkvrOAwm7-wtRbT-3" value="직원 박종섭" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="CocnZ4c7-BukDBuFTGTN-39">
+          <mxGeometry x="85.5" y="62" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1ovSfIkvrOAwm7-wtRbT-8" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.workstation;rotation=-90;" vertex="1" parent="CocnZ4c7-BukDBuFTGTN-39">
+          <mxGeometry x="99" y="95" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CocnZ4c7-BukDBuFTGTN-43" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="991" y="895" width="490" height="120" as="geometry" />
@@ -475,12 +481,12 @@
             <mxRectangle width="121" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CocnZ4c7-BukDBuFTGTN-52" value="7.22" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="CocnZ4c7-BukDBuFTGTN-49" vertex="1">
+        <mxCell id="CocnZ4c7-BukDBuFTGTN-52" value="2.88" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="CocnZ4c7-BukDBuFTGTN-49" vertex="1">
           <mxGeometry x="244" width="123" height="40" as="geometry">
             <mxRectangle width="123" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CocnZ4c7-BukDBuFTGTN-53" value="46.50" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="CocnZ4c7-BukDBuFTGTN-49" vertex="1">
+        <mxCell id="CocnZ4c7-BukDBuFTGTN-53" value="18.59" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="CocnZ4c7-BukDBuFTGTN-49" vertex="1">
           <mxGeometry x="367" width="123" height="40" as="geometry">
             <mxRectangle width="123" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -503,7 +509,7 @@
             <mxRectangle width="123" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CocnZ4c7-BukDBuFTGTN-58" value="46.50" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="CocnZ4c7-BukDBuFTGTN-54" vertex="1">
+        <mxCell id="CocnZ4c7-BukDBuFTGTN-58" value="18.59" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="CocnZ4c7-BukDBuFTGTN-54" vertex="1">
           <mxGeometry x="367" width="123" height="40" as="geometry">
             <mxRectangle width="123" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -512,13 +518,19 @@
           <mxGeometry x="1302.6" y="824" width="89" height="41" as="geometry" />
         </mxCell>
         <mxCell id="CocnZ4c7-BukDBuFTGTN-59" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FF3333;strokeWidth=5;" parent="1" vertex="1">
-          <mxGeometry x="1002.71" y="265" width="475" height="602" as="geometry" />
+          <mxGeometry x="1004" y="632" width="475" height="237" as="geometry" />
         </mxCell>
         <mxCell id="CocnZ4c7-BukDBuFTGTN-60" value="선반" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1008" y="520" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CocnZ4c7-BukDBuFTGTN-62" value="기업부설연구소" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1181" y="538" width="100" height="30" as="geometry" />
+        <mxCell id="1ovSfIkvrOAwm7-wtRbT-5" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: start;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;18.59&lt;font face=&quot;Arial, sans-serif&quot;&gt;m²&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;(5.63평형)&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="772.25" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="1ovSfIkvrOAwm7-wtRbT-6" value="기업부설연구소" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1162" y="753.75" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1ovSfIkvrOAwm7-wtRbT-7" value="2.88m" style="shape=dimension;direction=north;whiteSpace=wrap;html=1;align=center;points=[];verticalAlign=bottom;labelBackgroundColor=none;horizontal=0;spacingBottom=3;" vertex="1" parent="1">
+          <mxGeometry x="1479" y="630" width="40" height="242.25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
