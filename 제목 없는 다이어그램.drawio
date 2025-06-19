@@ -155,7 +155,7 @@
             <mxGeometry x="215" y="411" width="220" height="105" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="a6GtsuCzNvjbPkddZE2K-6" value="기업부설연구소" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="a6GtsuCzNvjbPkddZE2K-1">
+        <mxCell id="a6GtsuCzNvjbPkddZE2K-6" value="연구개발전담부서" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="a6GtsuCzNvjbPkddZE2K-1">
           <mxGeometry x="655" y="376" width="220" height="35" as="geometry" />
         </mxCell>
         <UserObject label="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;김 영 진&lt;br&gt;&lt;font color=&quot;#808080&quot;&gt;&lt;i&gt;연구소장&lt;/i&gt;&lt;/font&gt;&lt;/blockquote&gt;" name="Evan Valet" position="HR Director" location="Office 4" email="me@example.com" placeholders="1" link="https://www.draw.io" id="a6GtsuCzNvjbPkddZE2K-7">
